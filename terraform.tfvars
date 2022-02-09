@@ -1,0 +1,5 @@
+aws_region="ap-south-1"
+s3_bucket="somthedev.com"
+output_file = "s3_output.txt"
+domain_output_file = "domain_output.txt"
+domain_name = "somthedev.com"
